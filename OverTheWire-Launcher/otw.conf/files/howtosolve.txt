@@ -1,0 +1,23 @@
+Level 0: The 'cat' command can be used to output the contents of a file
+Level 1: Files starting with '-' must be opened with their absolute file location
+Level 2: Must specify spaces exist by using '"' or ''
+Level 3: There is a 'ls' argument that shows hidden files (man ls)
+Level 4: Can be found by using the 'find' and 'grep' commands
+Level 5: Same as last level, except with more arguments (man find)
+Level 6: Even MORE 'find' arguments, find is very useful
+Level 7: Just 'grep'
+Level 8: There are a couple ways, some possibities use the commands: sort, uniq,q, awk. Do some research and find what you like.
+Level 9: The 'strings' commands searches for ASCII text in a file full of random data
+Level 10: The 'base64' command can help, along with an argument (man base64)
+Level 11: Lookup "rot13"', or figure it out using the 'tr' command (man tr))
+Level 12: Must first decompress hexdump file, then use the 'file' command to know what to decompre$
+Level 13: Learn the 'ssh' argument for passwordless login (man ssh)
+Level 14: Learn the 'netcat/nc' command
+Level 15: Same as last level, learn 'ncat'
+Level 16: 'ncat' and 'nmap'
+Level 17: 'diff' shows differences between files
+Level 18: Learn how to do commaands during ssh ;)
+Level 19: Learn what the 'setuid' permission is and how it works
+Level 20: Combination of 'setuid;' and 'nc'
+Level 21: A little bit of htrVaveling around but not complicated
+Level 22: Gonna have to learn how a couple commands work once
