@@ -9,7 +9,7 @@ read -p "Input: " input
 echo ""
 case $input in
         0)
-            otw.conf/scripts/otwnewgame.sh
+            sshpass -p bandit0 ssh -o StrictHostKeyChecking=no bandit0@bandit.labs.overthewire.org -p 2220
             ;;
         1)
             otw.conf/scripts/autoOTWlogin.sh
