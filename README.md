@@ -1,6 +1,4 @@
 # OverTheWire-Launcher
-### Information on the Launcher and a little about me: 
-
 This is a fan-made launcher used to help clean some stuff up and make playing OverTheWire more digestable! 
 I made this one day because I was lazy and wanted to speed up the process of things, as well as have 
 a way of saving passwords. I do not own or work for overthewire. All the levels are from them.
