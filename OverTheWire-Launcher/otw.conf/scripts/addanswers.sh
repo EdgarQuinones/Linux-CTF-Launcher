@@ -27,7 +27,7 @@ while true; do
 
 print_password_list
 
-echo -e "Add Password: 0\nRemove Last Password: 1\n"
+echo -e "Add Password: 0\nRemove Last Password: 1\nBack: q/Q"
 
 read -p "Input: " input
 
