@@ -1,4 +1,9 @@
 #!/bin/bash
+"""
+This script is what ssh's the user into the OverTheWire machine. The reason is workds without entering your 
+password is it uses a service called 'sshpass'. If you don't download it, this will not work.
+"""
+
 
 echo -e "WARNING: Script will not work if password is not stored in 'answers.txt' file!\nTo add passwords, call the 'addanswers.sh' script.\n"
 
