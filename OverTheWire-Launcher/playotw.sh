@@ -28,7 +28,7 @@ case $input in
             break
             ;;
         *)
-            echo "Invalid choice, please enter a number between 0 and 4."
+            echo "Invalid choice, please enter a number between 0 and 5."
             ;;
     esac
 done
