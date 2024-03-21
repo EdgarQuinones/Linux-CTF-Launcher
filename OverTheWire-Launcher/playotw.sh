@@ -9,7 +9,7 @@ due to the fact that this is an infinite loop, the script will keep running.
 """
 while true; do
 echo "---------------------------------------------------------------------------------------------"
-echo -e "Welcome to OverTheWire Launcher! Version 0.1.0 (Not Owner or Part of OTW, for fun project!)"
+echo -e "Welcome to OverTheWire Launcher! Version 1.0 (Not Owner or Part of OTW, for fun project!)"
 echo "---------------------------------------------------------------------------------------------"
 echo -e "\nNew Game: 0\nSpecific Level: 1\nAdd/Remove Password: 2\nHelp: 3\nTips: 4\nQuit: 5\n"
 read -p "Input: " input
