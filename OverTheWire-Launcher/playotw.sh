@@ -2,6 +2,10 @@
 """
 This Project was made by Edgar Quinones, I hope you enjoy it!
 Github: https://github.com/EdgarQuinones
+
+This program gives the user mutiple options to make playing OverTheWire much more digestible. 
+You can choose levels, save passwords, and even add tips. Even when they exit out of the ssh, 
+due to the fact that this is an infinite loop, the script will keep running. 
 """
 while true; do
 echo "---------------------------------------------------------------------------------------------"
