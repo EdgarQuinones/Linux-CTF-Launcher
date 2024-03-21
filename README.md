@@ -1,7 +1,7 @@
 # OverTheWire-Launcher
 This is a fan-made launcher used to help clean some stuff up and make playing OverTheWire more digestable! 
 I made this one day because I was lazy and wanted to speed up the process of things, as well as have 
-a way of saving passwords. I do not own or work for overthewire. All the levels are from them.
+a way of saving passwords. *I do not own or work for overthewire. All the levels are from them.*
 You will need to go to their website in order to get more information for each level, but I have some 
 tips if you want a little boost. I have a couple options that explain themselves. You can start from
 level 0 and go from there. Or you can select from a level you have already beaten. In order to go to 
