@@ -1,6 +1,6 @@
 # OverTheWire-Launcher
 ----------------------------------------------------------------------------------------------------------
-Information on the Launcher and a little about me: 
+### Information on the Launcher and a little about me: 
 
 This is a fan-made launcher used to help clean some stuff up and make playing OverTheWire more digestable! 
 I made this one day because I was lazy and wanted to speed up the process of things, as well as have 
