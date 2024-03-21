@@ -1,5 +1,12 @@
 #!/bin/bash
+"""
+This Project was made by Edgar Quinones, I hope you enjoy it!
+Github: https://github.com/EdgarQuinones
 
+This script gives the user the ability to store tips come up with while 
+doing OverTheWire Levels. It stores all the tips in the howtosolve.txt file.
+I added a couple of mine, and may keep updating as I do the levels myself.
+"""
 path=otw.conf/files/howtosolve.txt
 
 print_tips_list(){
