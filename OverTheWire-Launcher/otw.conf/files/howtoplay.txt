@@ -11,6 +11,7 @@ beaten levels you will need to store your passwords. All that is handled here in
 free to share this with friends, this is very helpful for those very new to linux that want a more UI 
 friendly way of learning Linux. Thanks and have fun! NOTE: Must download 'sshpass' for the program to run.
 
-Website: https://overthewire.org/wargames/bandit/
+OverTheWire's Website: https://overthewire.org/wargames/bandit/
+My Github: https://github.com/EdgarQuinones
 ----------------------------------------------------------------------------------------------------------
 
