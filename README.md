@@ -11,4 +11,4 @@ friendly way of learning Linux. Thanks and have fun!
 
 Website: https://overthewire.org/wargames/bandit/
 ----------------------------------------------------------------------------------------------------------
-[](OverTheWire-Launcher.png)
+![](OverTheWire-Launcher.png)
