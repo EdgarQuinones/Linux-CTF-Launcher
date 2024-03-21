@@ -1,5 +1,11 @@
 #!/bin/bash
+"""
+This Project was made by Edgar Quinones, I hope you enjoy it!
+Github: https://github.com/EdgarQuinones
 
+This script gives the user the ability to store passwords they found while 
+doing OverTheWire Levels. It stores all the passwords in the answers.txt file.
+"""
 path=otw.conf/files/answers.txt
 
 print_password_list(){
