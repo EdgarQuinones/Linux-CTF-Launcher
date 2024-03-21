@@ -1,5 +1,8 @@
 #!/bin/bash
-
+"""
+This Project was made by Edgar Quinones, I hope you enjoy it!
+Github: https://github.com/EdgarQuinones
+"""
 while true; do
 echo "---------------------------------------------------------------------------------------------"
 echo -e "Welcome to OverTheWire Launcher! Version 0.1.0 (Not Owner or Part of OTW, for fun project!)"
