@@ -27,7 +27,7 @@ while true; do
 
 print_tips_list
 
-echo -e "Add Tip: 0\nRemove Tip: 1\n"
+echo -e "Add Tip: 0\nRemove Tip: 1\nBack: q/Q"
 
 read -p "Input: " input
 
