@@ -1,14 +1,61 @@
-# OverTheWire-Launcher 1.0
-This is a fan-made launcher used to help clean some stuff up and make playing OverTheWire more digestable! 
-I made this one day because I was lazy and wanted to speed up the process of things, as well as have 
-a way of saving passwords. *I do not own or work for overthewire. All the levels are from them.*
-You will need to go to their website in order to get more information for each level, but I have some 
-tips if you want a little boost. I have a couple options that explain themselves. You can start from
-level 0 and go from there. Or you can select from a level you have already beaten. In order to go to 
-beaten levels you will need to store your passwords. All that is handled here in the launcher. Feel
-free to share this with friends, this is very helpful for those very new to linux that want a more UI 
-friendly way of learning Linux. Thanks and have fun! NOTE: Must download 'sshpass' for the program to run.
+# OverTheWire Launcher 1.0  
 
-Website: https://overthewire.org/wargames/bandit/
-----------------------------------------------------------------------------------------------------------
-![](OverTheWireLauncher.png)
+This fan-made launcher is designed to make OverTheWire challenges more accessible and beginner-friendly. It helps simplify the process, allowing you to focus on learning Linux while offering features to save passwords and navigate through levels efficiently.  
+
+**Disclaimer:** This launcher is not affiliated with OverTheWire. All levels and content are from their website. For detailed information on each level, visit [OverTheWire Bandit](https://overthewire.org/wargames/bandit/).  
+
+### Key Features  
+- Start from **Level 0** and progress step-by-step, or select levels you’ve already completed.  
+- Store and manage your passwords securely for easy access to previously beaten levels.  
+- Beginner-friendly with tips to guide you through the challenges.  
+- Perfect for newcomers looking for a more visual, UI-driven way to learn Linux basics.  
+
+### Requirements  
+- Ensure `sshpass` is installed on your system.  
+- Make all scripts executable after downloading the launcher.  
+
+---
+
+### **Setup Instructions**  
+
+#### Step 1: Download the Launcher  
+1. Download the launcher from the provided link or repository.  
+2. Extract the files to your desired directory.  
+
+#### Step 2: Install Required Tools  
+1. Open your terminal.  
+2. Install `sshpass` by running:  
+   ```bash
+   sudo apt update && sudo apt install sshpass
+   ```  
+   (For non-Debian systems, use your package manager, e.g., `brew` on macOS or `yum` on Fedora.)  
+
+#### Step 3: Make Scripts Executable  
+1. Navigate to the launcher directory in your terminal.  
+   ```bash
+   cd /path/to/launcher
+   ```  
+2. Make all scripts executable by running:  
+   ```bash
+   chmod +x *.sh
+   ```  
+
+#### Step 4: Launch the Program  
+1. Run the launcher with the following command:  
+   ```bash
+   ./launcher.sh
+   ```  
+
+#### Step 5: Begin Playing  
+- Select **Level 0** to start fresh or choose a previously beaten level (password storage required).  
+- Follow the tips and use the features to enhance your learning experience.  
+
+---
+
+### Notes  
+- This tool requires an internet connection to interact with OverTheWire servers via SSH.  
+- Passwords for completed levels are stored locally for convenience.  
+- Feel free to share this launcher with friends, especially those new to Linux.  
+
+**Have fun, and enjoy learning Linux!**  
+![](OverTheWireLauncher.png)  
