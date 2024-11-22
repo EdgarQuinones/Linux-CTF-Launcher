@@ -1,5 +1,4 @@
-# OverTheWire Launcher 1.0  
-
+# OverTheWire Launcher
 This fan-made launcher is designed to make OverTheWire challenges more accessible and beginner-friendly. It helps simplify the process, allowing you to focus on learning Linux while offering features to save passwords and navigate through levels efficiently.  
 
 **Disclaimer:** This launcher is not affiliated with OverTheWire. All levels and content are from their website. For detailed information on each level, visit [OverTheWire Bandit](https://overthewire.org/wargames/bandit/).  
